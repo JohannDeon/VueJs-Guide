@@ -67,8 +67,8 @@ App running at:
 >[!TIP]
 > Pour builder le site : ```npm run build```.
 
-
-	
+- pour la gestion des pages installer : ```npm install vue-router@4```
+- et ```npm install cli-service```
 
 
 
