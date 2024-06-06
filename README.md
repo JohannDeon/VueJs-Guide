@@ -19,7 +19,7 @@
 
 - Créer un dossier où le site web sera stocké.
 
-- Installer Node.JS à l'adresse [https://nodejs.org/en/download/prebuilt-installer](url).
+- Installer Node.JS à l'adresse [https://nodejs.org/en/download/prebuilt-installer](https://nodejs.org/en/download/prebuilt-installer).
 
 - Ouvrir le dossier du site web dans Visual Studio Code.
 
