@@ -27,7 +27,8 @@
   <p>- La version devrait s'afficher, sinon réinstaller Node.js.</p>
 <p/>
 <p/>	
-- Tapez ```npm install -g npm``` pour installer NPM.
+	
+- Tapez `npm install -g npm` pour installer NPM.
 
 - Installer Vue CLI : ```npm install -g @vue/cli``` 		<sub>// Cela permettra de créer le site web.</sub>
 
