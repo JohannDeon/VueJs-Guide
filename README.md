@@ -14,6 +14,9 @@
 
 
 ```
+
+<a class="github-button" href="https://github.com/JohannDeon" aria-label="Follow @JohannDeon on GitHub">Follow @JohannDeon</a>
+
 > [!NOTE]
 > Vue JS:
 
