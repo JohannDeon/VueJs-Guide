@@ -74,9 +74,9 @@ App running at:
 - et ```npm install -g @vue/cli```
 
 ><h1>Liens Utiles:</h1>
->[flexbox.help](https://flexbox.help)
->[Glassmorphism](https://css.glass)
->[Neumorphism](https://neumorphism.io/#e0e0e0)
+- [flexbox.help](https://flexbox.help)
+- [Glassmorphism](https://css.glass)
+- [Neumorphism](https://neumorphism.io/#e0e0e0)
 
 
 
