@@ -73,7 +73,10 @@ App running at:
 - pour la gestion des pages installer : ```npm install vue-router@4```
 - et ```npm install -g @vue/cli```
 
-
+><h1>Liens Utiles:</h1>
+>[flexbox.help](https://flexbox.help)
+>[Glassmorphism](https://css.glass)
+>[Neumorphism](https://neumorphism.io/#e0e0e0)
 
 
 
