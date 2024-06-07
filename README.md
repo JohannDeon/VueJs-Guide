@@ -42,7 +42,7 @@ En cas d'erreur, exécuter : ```Set-ExecutionPolicy Unrestricted -Scope CurrentU
 
 
 - Sur l'interface `localhost:8000`<-- à écricre dans le navigateur!
-	- Allez sur l'onglet `Créer`.
+	- Allez dans l'onglet `Créer`.
 	- Vérifiez d'être dans le bon dossier, puis créez un nouveau projet.
 	- Gestionnaire de paquets : `npm`.
  	- Options additionnelles => ne rien toucher.
