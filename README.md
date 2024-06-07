@@ -14,11 +14,11 @@
 
 
 ```
-
-<a class="github-button" href="https://github.com/JohannDeon" aria-label="Follow @JohannDeon on GitHub">Follow @JohannDeon</a>
+> [!IMPORTANT]
+><a class="github-button" href="https://github.com/JohannDeon" aria-label="Follow @JohannDeon on GitHub">Follow @JohannDeon</a>
 
 > [!NOTE]
-> Vue JS:
+> Initialiser Vue JS:
 
 - Créer un dossier où le site web sera stocké.
 
