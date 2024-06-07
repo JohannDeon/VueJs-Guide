@@ -41,7 +41,7 @@ Créer le projet : ```vue ui```			<sub>// Ouvre une interface dans le navigateur
 En cas d'erreur, exécuter : ```Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force```
 
 
-- Sur l'interface `localhost:8000`
+- Sur l'interface `localhost:8000`<-- à écricre dans le navigateur!
 	- Allez sur "Créer".
 	- Vérifiez d'être dans le bon dossier, puis créez un nouveau projet.
 	- Gestionnaire de paquets : npm.
