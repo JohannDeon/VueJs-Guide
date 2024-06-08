@@ -70,6 +70,7 @@ App running at:
 - [flexbox.help](https://flexbox.help)
 - [Glassmorphism](https://css.glass)
 - [Neumorphism](https://neumorphism.io/#e0e0e0)
+- [Background](https://www.magicpattern.design/tools/css-backgrounds)
 
 
 
