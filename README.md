@@ -71,6 +71,7 @@ App running at:
 - [Glassmorphism](https://css.glass)
 - [Neumorphism](https://neumorphism.io/#e0e0e0)
 - [Background](https://www.magicpattern.design/tools/css-backgrounds)
+- [CSS tools](https://10015.io/tools/youtube-thumbnail-grabber)
 
 
 
